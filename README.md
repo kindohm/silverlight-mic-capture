@@ -1,0 +1,1 @@
+Code example of how to capture microphone input in Silverlight.
